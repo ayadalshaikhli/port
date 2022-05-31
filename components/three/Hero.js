@@ -279,12 +279,13 @@ export default function Hero() {
                 <div className="h1 text-6xl text-orange-400">About</div>
                 <div className="parag text-xl w-96 mt-10">
                   Hi, My name is <span className="text-orange-400">Ayad</span>.
-                  I'm 26 years old Web Developer Welcome to my portfolio
-                  website. Dive into some fun projects I've done over the years.
-                  I design and develop websites for businesses using HTML, CSS,
-                  JavaScript. I have also worked as a video and photo editor
-                  using Adobe PhotoShop and Adobe Premiere. I am also passionate
-                  about building animated websites using three.js blender webgl.
+                  I amm 26 years old Web Developer Welcome to my portfolio
+                  website. Dive into some fun projects I have done over the
+                  years. I design and develop websites for businesses using
+                  HTML, CSS, JavaScript. I have also worked as a video and photo
+                  editor using Adobe PhotoShop and Adobe Premiere. I am also
+                  passionate about building animated websites using three.js
+                  blender webgl.
                 </div>
               </div>
               <h1 style={{ position: "absolute", top: "20vh", left: "225vw" }}>
